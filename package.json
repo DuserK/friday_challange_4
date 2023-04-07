@@ -1,0 +1,19 @@
+{
+  "name": "friday_challange_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uzduotys.js",
+  "scripts": {
+    "07": "nodemon ./07-uzduotis.js",
+    "06": "nodemon ./06-uzduotis.js",
+    "05": "nodemon ./05-uzduotis.js",
+    "04": "nodemon ./04-uzduotis.js",
+    "03": "nodemon ./03-uzduotis.js",
+    "02": "nodemon ./02-uzduotis.js",
+    "01": "nodemon ./01-uzduotis.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Darius (https://github.com/DuserK)",
+  "license": "MIT"
+}
